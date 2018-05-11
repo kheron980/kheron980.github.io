@@ -1,0 +1,9 @@
+@font-face {
+font-family: "AgencyFB";
+src: url("AgencyFB.eot") format("eot"); /* IE9 Compat Modes */
+src: url("AgencyFB.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+     url("AgencyFB.woff") format("woff"), /* Modern Browsers */
+     url("AgencyFB.ttf") format("truetype"); /* Safari, Android, iOS */
+font-weight: normal;
+font-style: normal;
+}
